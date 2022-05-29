@@ -1,1 +1,1 @@
-# hearingaidsolutions
+# hearingsolutions
